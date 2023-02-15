@@ -207,3 +207,13 @@ button:hover {
 .sign-up button {
   border: 2px solid #f9faf8;
 }
+
+.footer {
+  background-color: #1f2937;
+}
+
+.footer p {
+  color: #f9faf8;
+  text-align: center;
+  padding: 30px;
+}
